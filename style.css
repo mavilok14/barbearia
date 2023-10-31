@@ -1,11 +1,17 @@
 body {
-	background: #CCCCCC
+	background: #06d8f3
 }
-
+#banner{
+	width: 100;
+}
 p {
 	text-align: center;
 }
+#missao {
+	font-size: 30px;
+}
 
 em strong {
-	color: #FF0000;
+	color: #2600ff;
 }
+ 
