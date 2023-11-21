@@ -1,5 +1,5 @@
 body{
-   background: #ff7e7e
+   background: #f3f3f3
 }
 
 #banner{
@@ -7,10 +7,14 @@ body{
 }
 
 .principal {
-    background-color: #ff7e7e;
+    background-color: #dddddd;
+    padding: 30px;
 }
-h1{
-    color: rgb(255, 14, 14);
+.titulo-principal{
+padding-left: 20px;
+}
+.titulo-centralizado{
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -24,7 +28,7 @@ p {
 }
 
 em strong {
-    color: rgb(231, 0, 0);
+    color: rgb(0, 0, 0);
 }
 
 .itens {
@@ -32,13 +36,17 @@ em strong {
 }
 
 .beneficios{
-    background-color: rgb(232, 51, 51);
+    background-color: #dddddd;
+    padding: 30px;
 }
 
-h2{
-    text-align: center;
+ul { 
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
 }
 
-#beneficios{
-    width: 100%;
+.imagembeneficios{
+    width: 50%;
 }
